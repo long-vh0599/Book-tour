@@ -1,0 +1,19 @@
+#search{
+	padding-top: 5px;
+	border-top: 2px dashed #d3d3d3;
+	border-bottom: 2px dashed #d3d3d3;
+	background-color: #FFF;
+	height: 30px;
+}
+#search label, #search option {
+	font-family: arial;
+	font-size: 14px;
+}
+#search input{
+	width: 80px;
+}
+#search input:hover{
+	background-color: #d3d3d3;
+	cursor: pointer;
+}
+ 
